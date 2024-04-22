@@ -10,6 +10,6 @@ azd config set alpha.aspire.autoConfigureDataProtection on
 
 How to use the app:
  
-/protect - Returns a data protection payload and the pod name
-/unprotect/{secret} - Will return the unprotected payload and pod name
+- `/protect` - Returns a data protection payload and the pod name
+- `/unprotect/{secret}` - Will return the unprotected payload and pod name
  
